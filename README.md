@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Uploading Yandaq photo 1024px.jpg…]()
+![Yandaq photo 1024px](https://user-images.githubusercontent.com/75598505/102418491-0c0d4d80-4028-11eb-946b-abe9a816d427.jpg)
 
 Java implementation of the [Yandaq Finance](yandaq.org)
 
