@@ -15,6 +15,6 @@ Please join our Developer [twitter](https://twitter.com/yaf_foundation)
 
 
 ### Resource
-[Website](yandaq.org)
-Documentation
-Tronscan(https://tronscan.org/#/token20/TXrBW4XmREr6eEjZUHeYnSKnGgDwaBjBhY)
+* [Website](yandaq.org)
+* [Documentation](yandaq.org)
+* [Tronscan](https://tronscan.org/#/token20/TXrBW4XmREr6eEjZUHeYnSKnGgDwaBjBhY)
