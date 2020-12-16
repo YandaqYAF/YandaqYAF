@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**YandaqYAF/YandaqYAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Uploading Yandaq photo 1024px.jpg…]()
 
-Here are some ideas to get you started:
+Java implementation of the [Yandaq Finance](yandaq.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What's Yandaq?
+Yandaq is a decentralized exchange for swapping TRC-20 & TRC-10 tokens. Familiar with 
+SushiSwap/PancakeSwa? Then you’ll have no issue grasping Yandaq. Both are incredibly 
+similar in design.
+
+Developer Community
+
+Please join our Developer [twitter](https://twitter.com/yaf_foundation)
+
+
+Resource
+[Website](yandaq.org)
+Documentation
+Tronscan(https://tronscan.org/#/token20/TXrBW4XmREr6eEjZUHeYnSKnGgDwaBjBhY)
