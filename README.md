@@ -1,6 +1,6 @@
-### Hi there 👋
+### YandaqYAF 👋
 
-![Yandaq photo 1024px](https://user-images.githubusercontent.com/75598505/102418491-0c0d4d80-4028-11eb-946b-abe9a816d427.jpg)
+![Yandaq photo 720px](https://user-images.githubusercontent.com/75598505/102418811-b2595300-4028-11eb-84c0-b98dde842191.jpg)
 
 Java implementation of the [Yandaq Finance](yandaq.org)
 
