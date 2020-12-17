@@ -18,3 +18,6 @@ Please join our Developer [twitter](https://twitter.com/yaf_foundation)
 * [Website](yandaq.org)
 * [Documentation](yandaq.org)
 * [Tronscan](https://tronscan.org/#/token20/TXrBW4XmREr6eEjZUHeYnSKnGgDwaBjBhY)
+
+### License
+* None
