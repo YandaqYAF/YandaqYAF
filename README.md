@@ -17,8 +17,8 @@ Please join our Developer [twitter](https://twitter.com/yaf_foundation)
 
 
 ### Resource
-* [Website](yandaq.org)
-* [Documentation](yandaq.org)
+* [Website](yandaq.co)
+* [Documentation](https://yandaq.co/yandaq-whitepaper-2-0/)
 * [Tronscan](https://tronscan.org/#/token20/TXrBW4XmREr6eEjZUHeYnSKnGgDwaBjBhY)
 
 ### License
