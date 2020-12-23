@@ -4,11 +4,11 @@
 
 
 
-Java implementation of the [Yandaq Finance](yandaq.org)
+Java implementation of the [Yandaq Finance](yandaq.co)
 
 ### What's Yandaq?
 Yandaq is a decentralized exchange for swapping TRC-20 & TRC-10 tokens. Familiar with 
-SushiSwap/PancakeSwa? Then you’ll have no issue grasping Yandaq. Both are incredibly 
+SushiSwap/PancakeSwap? Then you’ll have no issue grasping Yandaq. Both are incredibly 
 similar in design.
 
 ### Developer Community
